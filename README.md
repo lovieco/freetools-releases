@@ -17,7 +17,7 @@
 provider gives away, keeps it in one place, and lets you put it to work — through a
 single OpenAI-compatible endpoint, or right inside the app.
 
-One pass unlocks **180+ models across ~20 providers**. No copy-pasting keys between
+One pass unlocks **400+ models across 20 providers**. No copy-pasting keys between
 dashboards, no juggling twenty logins.
 
 ## Download
@@ -45,7 +45,7 @@ workaround.
 
 ## What it does
 
-- **Token Harvest** — collects the free keys providers hand out, across roughly twenty of
+- **Token Harvest** — collects the free keys providers hand out, across all twenty of
   them, in a single guided pass.
 - **Vault** — every key stored locally in the macOS Keychain, scoped per account. Yours,
   on your machine.
