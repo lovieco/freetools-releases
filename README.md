@@ -66,7 +66,7 @@ app once.
 
 This is the public distribution channel for FreeTools. Each release carries a notarized
 `.dmg` and a signed `appcast.xml`; the app reads the latest one on every launch to stay up
-to date. The application source lives in a separate, private repository.
+to date.
 
 <div align="center">
 
