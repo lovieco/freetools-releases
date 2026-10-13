@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/assets/freetools-icon.png" alt="FreeTools" width="128">
+
 # FreeTools
 
 ### Two apps in one: free AI tokens from every provider, and accelerator applications filled for you.
@@ -84,6 +86,13 @@ to date.
 
 <div align="center">
 
-Made by [**Lovie**](https://lovie.co) · © Lovie Technology Inc.
+<a href="https://lovie.co">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo-white.svg">
+    <img src=".github/assets/logo.svg" alt="Lovie" width="110">
+  </picture>
+</a>
+
+<sub>Made by <a href="https://lovie.co"><b>Lovie</b></a> · © Lovie Technology Inc.</sub>
 
 </div>
